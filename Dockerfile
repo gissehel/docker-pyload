@@ -1,5 +1,5 @@
 FROM ubuntu:xenial
-MAINTAINER Patrick Oberdorf "patrick@oberdorf.net"
+MAINTAINER Gissehel "public-docker-maintainer-pyload@gissehel.org"
 
 RUN apt-get update && apt-get install -y python \
 	locales \
